@@ -1,4 +1,4 @@
-# Disc Density of the standard $\alpha$ thin disc model
+# Disc densities in the standard $\alpha$ thin disc model
 
 Disc Density Calculation Code (calculate_disc_density.py)
 This code calculates the disc density at a given disc radius for a specified range of black hole masses and mass accretion rates.

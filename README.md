@@ -32,7 +32,7 @@ Jiang, J., et al. (2019), Monthly Notices of the Royal Astronomical Society, 484
 
 https://ui.adsabs.harvard.edu/abs/2019MNRAS.484.1972J/abstract
 
-# Measured disc density using relativistic disc reflection models
+# Previous disc density measurements using relativistic disc reflection models
 
 An ASCII file containing an incomplete compilation of disc density measurements against their black hole mass and mass accretion rate. You may use this ASCII file to reproduce Fig. 5 in Liu et al. 2023.
 

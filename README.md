@@ -34,7 +34,7 @@ https://ui.adsabs.harvard.edu/abs/2019MNRAS.484.1972J/abstract
 
 # Measured disc density using relativistic disc reflection models
 
-A fits file containing an incomplete compilation of disc density measurements against their black hole mass and mass accretion rate. You may use this fits file to reproduce Fig. 5 in Liu et al. 2023.
+An ASCII file containing an incomplete compilation of disc density measurements against their black hole mass and mass accretion rate. You may use this ASCII file to reproduce Fig. 5 in Liu et al. 2023.
 
 If you use these measurements in your work, please cite the following papers.
 

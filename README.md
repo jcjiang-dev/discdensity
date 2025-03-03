@@ -15,7 +15,7 @@ r_gravi: Disc radius at which the density is evaluated, also in units of gravita
 f: Fraction of disc energy transferred to the corona.
 
 ## Model Assumptions:
-This model does not include corrections for General Relativity and follows the formalism from Svensson & Zdziarski (1994), ApJ, 436, 599-606
+This model does not include corrections for General Relativity and follows the formalism from Svensson & Zdziarski (1994), ApJ, 436, 599-606 for radiation pressure-dominated regions of the disc.
 
 ## Citing this Code:
 If you use this code in your work, please cite the following references:
